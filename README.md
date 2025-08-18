@@ -1,0 +1,2 @@
+# prog.senha-segura
+senha
